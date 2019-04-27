@@ -1,0 +1,6 @@
+framework module Pods_youkoufu {
+  umbrella header "Pods-youkoufu-umbrella.h"
+
+  export *
+  module * { export * }
+}
